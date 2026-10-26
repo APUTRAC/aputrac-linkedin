@@ -4,7 +4,7 @@ Status values: Not started, Drafting, Ready, Scheduled, Posted.
 
 | Wk | Planned date | Theme | Format | Status | Posted date | Post link | Impressions | Reactions | Comments | Profile views | FE Score submissions | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2026-11-03 | Who I am and the blind spot | Text | Drafting | | | | | | | | |
+| 1 | 2026-11-03 | Who I am and the blind spot | Text | Ready | | | | | | | | |
 | 2 | 2026-11-10 | The cost of fuel | Text | Drafting | | | | | | | | |
 | 3 | 2026-11-17 | How much does an APU burn? | Carousel | Not started | | | | | | | | |
 | 4 | 2026-11-24 | Where the waste hides | Text or video | Not started | | | | | | | | |
@@ -15,8 +15,9 @@ Status values: Not started, Drafting, Ready, Scheduled, Posted.
 
 ## Before starting
 
-- [ ] Source or derivation for "$700M+"; first-hand IATA wording confirmed (see README, Source research)
-- [ ] Specific story for week 1 chosen (general version drafted)
+- [x] First-hand IATA wording confirmed (week 1)
+- [ ] Source or derivation for "$700M+" (see README and apu-fuel-estimate.md)
+- [x] Week 1 story: Pat's own words used (airlines could not track APU fuel accurately; surprised at avoidable waste)
 - [x] Goal chosen: leads and visibility equally
 - [x] Posting day: Tuesdays from 3 Nov 2026 (week 8 lands on 22 Dec, holiday week). Time of day: not set
 - [ ] LinkedIn profile headline and featured link point to the FE Score
