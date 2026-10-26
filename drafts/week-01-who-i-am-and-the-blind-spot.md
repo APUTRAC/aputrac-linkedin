@@ -24,7 +24,7 @@ If you work in fuel efficiency, ops control or ground ops: what's the one thing 
 #FuelEfficiency #AviationFuel
 
 ## First comment
-I'll be posting about airline fuel efficiency and APU fuel savings here regularly. More at www.aputrac.com
+None for week 1 (decided 2026-10-26). The post has no link, so there is nothing to move into a comment. Reply to readers' comments in the first hour.
 
 ## Hashtags
 Chosen 2026-10-26: #FuelEfficiency #AviationFuel (already at the end of the post). Others considered: #Airlines #AirlineOperations (too broad). Maybe later: #APU, #GroundOperations.
