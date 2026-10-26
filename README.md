@@ -74,17 +74,18 @@ Saves and comments from the right job titles, profile views, and FE Score submis
 
 | Claim | What was found | Use in posts |
 |---|---|---|
-| Fuel share of airline costs | IATA June 2025 outlook: 2025 fuel bill $236 billion, 25.8% of operating costs (2024: $261 billion). https://www.iata.org/en/pressroom/2025-releases/2025-06-02-01/ | Good. Check iata.org for a newer outlook (Dec 2025 or June 2026) and use the latest. |
+| Fuel share of airline costs | IATA June 2026 outlook: 2026 fuel bill about $350 billion, 31.4% of operating costs (2025: $252 billion, 25.4%); consumption 104 billion gallons; jet fuel about $152 a barrel. Press release: https://www.iata.org/en/pressroom/2026-releases/06-07-middle-east-disruptions-high-fuel-prices-halve-airline-industry-profitability/ | Good, and stronger than the June 2025 figures. Re-check iata.org before posting; the December 2026 outlook will add 2027. |
 | APU share of an airline's fuel | Roughly 2 to 2.5% (one academic paper, citing IATA, not confirmed against IATA); about 1% for British Airways per the IPCC aviation report. https://archive.ipcc.ch/ipccreports/sres/aviation/127.htm | Say "about 1 to 2.5%" and cite. Do not attribute the 2 to 2.5% to IATA unless confirmed. |
 | "IATA identified APU management as the #1 opportunity" | No published IATA document found that says this. | Reframe as first-hand: "the IATA fuel efficiency team I led worked with 100+ airlines and found..." Pat to confirm the wording and whether IATA needs to approve use of its name. |
 | "$700M+ wasted per year" (website) | No credible published figure found. | Pat to say where it came from. If it is APUTRAC's own model, call it "our estimate" and be ready to explain the method. |
+| Industry APU fuel use | Our own estimate, see `apu-fuel-estimate.md`: about 1.5% of fuel burn, about 1.56 billion gallons and $5.3 billion in 2026 (range 1 to 2.5%). | Label as an estimate and show the sum. |
 | What an APU burns | One airline source cited in a blog: 150 to 400+ kg/h; ground power under 20 kg/h. Our reference file gives 100 to 350 kg/h by type. | Use our reference file (week 3) and say "about". |
 
 Avoid: vendor-claimed figures (FlightWatching, Cavotec, Honeywell) unless clearly labelled as vendor claims.
 
 ## Open questions
 
-1. Where does the "$700M+" figure come from (derivation or document)?
+1. Where does the "$700M+" figure come from (derivation or document)? (See `apu-fuel-estimate.md`: it equals about 13% of estimated APU fuel, a possible derivation.)
 2. Confirm the first-hand IATA framing above, and whether IATA's name can be used.
 3. One specific IATA-years moment for the week 1 `[STORY]` slot (optional).
 4. Any weeks to reorder, swap or drop.
