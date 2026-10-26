@@ -21,11 +21,13 @@ I'll be sharing what I've learned about APU fuel use here over the coming weeks.
 
 If you work in fuel efficiency, ops control or ground ops: what's the one thing you wish you could see about APU use on your ramp?
 
+#FuelEfficiency #AviationFuel
+
 ## First comment
 I'll be posting about airline fuel efficiency and APU fuel savings here regularly. More at www.aputrac.com
 
-## Optional hashtags (pick two or three at the end of the post)
-#AviationFuel #FuelEfficiency #Airlines #AirlineOperations
+## Hashtags
+Chosen 2026-10-26: #FuelEfficiency #AviationFuel (already at the end of the post). Others considered: #Airlines #AirlineOperations (too broad). Maybe later: #APU, #GroundOperations.
 
 ## Notes
 - Confirmed by Pat (2026-10-26): "40+ years", "ten years at IATA" and "more than 100 airlines" are accurate as written, and referencing IATA is acceptable.
