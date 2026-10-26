@@ -1,7 +1,7 @@
 # Week 1: Who I am and the blind spot
 
-Status: Ready for your final review
-Planned: Tuesday 3 Nov 2026
+Status: Scheduled (Pat posts it himself)
+Planned: Tuesday 27 Oct 2026, evening (moved up from 3 Nov)
 
 ## Post
 
@@ -15,7 +15,7 @@ When I asked airlines how much APU fuel they burned, I was surprised how few cou
 
 That's the problem in a nutshell. An APU can run at the gate, on a remote stand or overnight in maintenance while no one who could switch it off knows. Most airlines review the data after landing. By then the fuel is gone, and the reason is hard to find.
 
-After 40+ years in airlines, from the chief pilot's office at Delta Air Lines to IATA, and working with more than 100 airlines, I'm convinced APU management is the biggest fuel-saving opportunity most airlines still aren't managing.
+After 40+ years in airlines, from the chief pilot's office at Delta Air Lines to consulting for IATA, and working with more than 100 airlines, I'm convinced APU management is the biggest fuel-saving opportunity most airlines still aren't managing.
 
 I'll be sharing what I've learned about APU fuel use here over the coming weeks.
 
