@@ -9,7 +9,7 @@ I spent ten years on fuel efficiency projects for IATA, often leading them. The 
 
 It was the one engine nobody watches.
 
-Every engine on an aircraft is managed in real time except one: the APU.
+Almost every engine on an aircraft is managed in real time. The exception is the APU.
 
 When I asked airlines how much APU fuel they burned, I was surprised how few could tell me with any accuracy. And they were surprised to learn how much fuel they were wasting on the ground, and that it was avoidable.
 
