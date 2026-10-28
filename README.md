@@ -66,7 +66,7 @@ Saves and comments from the right job titles, profile views, and FE Score submis
 ## Decisions (2026-10-26)
 
 - **Goal:** leads and visibility equally. Education-first posts; the FE Score is pushed in weeks 6 to 8.
-- **Posting day:** Tuesdays. Week 1 = 3 Nov 2026, then 10, 17 and 24 Nov, 1, 8 and 15 Dec, and week 8 = 22 Dec (holiday week: reach usually drops, so consider posting week 8 on 29 Dec or moving it earlier).
+- **Posting day:** Tuesdays, evening. Week 1 was posted on 27 Oct 2026 (a week earlier than first planned). The rest moved up a week on 28 Oct: week 2 = 3 Nov, week 3 = 10 Nov, week 4 = 17 Nov, week 5 = 24 Nov, week 6 = 1 Dec, week 7 = 8 Dec, week 8 = 15 Dec (now clear of the holiday week).
 - **Week 1 story:** general version for now, with a marked `[STORY]` slot for one specific moment from the IATA years.
 - **Sources:** to be confirmed by Pat; see below. Drafts carry `[SOURCE]` markers until then.
 

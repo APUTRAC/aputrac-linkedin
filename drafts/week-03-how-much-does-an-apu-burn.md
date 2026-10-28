@@ -1,6 +1,7 @@
 # Week 3: How much does an APU burn?
 
 Status: Not started
+Planned: Tuesday 10 Nov 2026, evening
 
 ## Working hook
 A running 777 APU burns about 100 gallons an hour. A 737 burns about 36.

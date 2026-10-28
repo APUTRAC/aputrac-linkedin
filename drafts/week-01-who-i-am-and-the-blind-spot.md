@@ -1,7 +1,7 @@
 # Week 1: Who I am and the blind spot
 
-Status: Scheduled (Pat posts it himself)
-Planned: Tuesday 27 Oct 2026, evening (moved up from 3 Nov)
+Status: Posted (Pat posted it himself, Tuesday 27 Oct 2026, evening)
+Planned: Tuesday 27 Oct 2026 (moved up from 3 Nov). Results so far are in TRACKER.md.
 
 ## Post
 

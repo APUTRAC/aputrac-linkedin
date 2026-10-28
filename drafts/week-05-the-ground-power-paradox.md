@@ -1,6 +1,7 @@
 # Week 5: The ground power paradox
 
 Status: Not started
+Planned: Tuesday 24 Nov 2026, evening
 
 ## Working hook
 Gate power and air are installed. Crews still run the APU.

@@ -1,6 +1,7 @@
 # Week 8: What it adds up to
 
 Status: Not started
+Planned: Tuesday 15 Dec 2026, evening
 
 ## Working hook
 What a 20% APU reduction is worth for an 82-aircraft fleet.

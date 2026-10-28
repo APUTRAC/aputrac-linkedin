@@ -1,7 +1,7 @@
 # Week 2: The cost of fuel
 
 Status: Drafting (numbers updated to IATA's June 2026 outlook; needs checking against IATA's pages and your edit)
-Planned: Tuesday 10 Nov 2026
+Planned: Tuesday 3 Nov 2026, evening (moved up a week)
 
 ## Post
 

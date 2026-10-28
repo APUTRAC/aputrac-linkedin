@@ -1,6 +1,7 @@
 # Week 6: It's a people problem
 
 Status: Not started
+Planned: Tuesday 1 Dec 2026, evening
 
 ## Working hook
 The fuel isn't saved by a system. It's saved by ownership, training and a team.

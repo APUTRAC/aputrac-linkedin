@@ -1,6 +1,7 @@
 # Week 7: FE Score launch
 
 Status: Not started
+Planned: Tuesday 8 Dec 2026, evening
 
 ## Working hook
 Where does your APU operation stand? Five minutes to find out.
